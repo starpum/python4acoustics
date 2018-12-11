@@ -1,0 +1,3 @@
+Python est :
+	- Libre et open-source
+	- Beau et facile à lire et apprendre
